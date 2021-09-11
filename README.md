@@ -3,4 +3,4 @@
 # Sixties
 Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
-![](https://komarev.com/ghpvc/?username=KopzazaTH&color=00e5ff)
+![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
