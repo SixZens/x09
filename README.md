@@ -6,3 +6,5 @@
 Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
+
+📁 Scripter Roblox Hack Script ,etc ..
