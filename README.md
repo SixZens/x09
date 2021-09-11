@@ -1,1 +1,1 @@
-<img align='left' src='https://www.google.co.th/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fdololianime&psig=AOvVaw0CyUE3GkHNbfTOGwPZjS0b&ust=1631481531654000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNjq7bvs9_ICFQAAAAAdAAAAABAD' width='20%'>
+<img align='left' src='https://cdn.discordapp.com/attachments/876841802324402186/886360386947923978/JoMJKAG8.png' width='20%'>
