@@ -14,3 +14,5 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 </p>
 
 <h2 align="center">Skill</h2>
+
+<p align="left"> <a href="https://aws.amazon.com" target="_blank">
