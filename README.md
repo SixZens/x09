@@ -15,4 +15,4 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 <h2 align="center">Skill</h2>
 
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank"> <img src="https://cdn.discordapp.com/attachments/876841802324402186/886364473508646912/1200px-Lua-Logo.svg.png" alt="azure" width="40" height="40"/></p>
+<p align="left"> <a href="https://www.lua.org" target="_blank"> <img src="https://cdn.discordapp.com/attachments/876841802324402186/886364473508646912/1200px-Lua-Logo.svg.png" alt="azure" width="40" height="40"/></p>
