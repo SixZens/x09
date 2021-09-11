@@ -9,9 +9,8 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SixtiesGod&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="SixtiesGod" />
