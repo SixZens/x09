@@ -9,7 +9,9 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SixtiesGod&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="SixtiesGod" />
