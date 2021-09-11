@@ -3,7 +3,7 @@
 # Sixties
 **Contact me on Discord: SixZens#4978**
 
-Scripter In [Sixties | Script]('**'https://discord.gg/fJSEG3uaBq'**')
+Scripter In **[Sixties | Script]**(https://discord.gg/fJSEG3uaBq)
 
 📁 Scripter Roblox Hack Script ,etc ..
 
