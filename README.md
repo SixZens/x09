@@ -12,9 +12,6 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SixtiesGod&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="SixtiesGod" />
-   <a href="https://github.com/BossNzXD">
-  <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BossNz&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</a>
 </p>
 
 <h2 align="center">Skill</h2>
