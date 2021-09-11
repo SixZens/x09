@@ -8,7 +8,7 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 📁 Scripter Roblox Hack Script ,etc ..
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
-![](https://img.shields.io/badge/Discord-Sixties%234978&color=00e5ff)
+![](https://img.shields.io/badge/Discord-Sixties%23497-8&color=00e5ff)
 
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SixtiesGod&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="SixtiesGod" />
