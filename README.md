@@ -9,6 +9,10 @@ Scripter In [Sixties | Script](https://discord.gg/fJSEG3uaBq)
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=00e5ff)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Discord-Sixties%230741-blue">
+</p>
+
 <p align="left">
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=SixtiesGod&show_icons=true&bg_color=00,de0021,de0021&title_color=fff&text_color=fff" alt="SixtiesGod" />
 </p>
