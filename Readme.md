@@ -17,5 +17,4 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SixtiesGod&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 # Contacts
-[![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/nexure)
-[![a](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nexure_)
+[![a](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](dsc.bio/sixzens)
