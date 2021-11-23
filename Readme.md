@@ -13,12 +13,9 @@
 </p>
 
 # About
-I am Restyle of UI
+I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
 
-# Stats
-![Nexure's github stats](https://github-readme-stats.vercel.app/api?username=nexure&count_private=true&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # Spotify
