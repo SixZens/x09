@@ -5,7 +5,7 @@
 📁 Scripter Roblox Hack Script ,etc ..
 
 ![](https://komarev.com/ghpvc/?username=SixtiesGod&color=de0021)
-![](https://img.shields.io/badge/Discord-SixZens%23497-red)
+![](https://img.shields.io/badge/Discord-SixZens%234978-red)
 
 # About
 I do Ui-Library in Roblox , such as Hub development (front-end), and Script development! Most of the projects you may see on here are mostly hobbyist.
