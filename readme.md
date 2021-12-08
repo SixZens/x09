@@ -1,4 +1,4 @@
-<img align='left' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F437341813795299683%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%7B%7Bdefault.session%7D%7D%26simplified%3Dtrue&psig=AOvVaw1UYBcnXoqpr9T7yjW-Kw42&ust=1639072098046000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODEwMfh1PQCFQAAAAAdAAAAABAR' width='20%'>
+<img align='left' src='https://i.pinimg.com/originals/2d/6f/83/2d6f83afe677bd30fc3e80cecfe1133f.jpg' width='20%'>
 
 # SixZens
 
