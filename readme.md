@@ -13,3 +13,5 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 - [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
