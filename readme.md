@@ -15,3 +15,8 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 # Function UI Library
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
