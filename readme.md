@@ -20,4 +20,4 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 [*] UI Open Source 500
 ```
 # New Function
-- [x] Add delight to the experience when all tasks are complete :tada:
+- [x] Add Blank Function (Settings Padding Between UI) :tada:
