@@ -4,7 +4,7 @@
 
 📁 Scripter Roblox Hack Script ,etc ..
 
-![](https://komarev.com/ghpvc/?username=SixZens&color=de0021)
+![](https://komarev.com/ghpvc/?username=Sixtisgod&color=de0021)
 ![](https://img.shields.io/badge/Discord-SixZens%234978-red)
 
 # About
