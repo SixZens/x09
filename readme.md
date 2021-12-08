@@ -12,6 +12,4 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 
 This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
-[^1]: My reference.
-[^2]: Every new line should be prefixed with 2 spaces.  
-  This allows you to have a footnote with multiple lines.
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
