@@ -16,7 +16,6 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 # Function UI Library
 
-```
-No language indicated, so no syntax highlighting. 
-But let's throw in a <b>tag</b>.
+```Lua
+local a = Test
 ```
