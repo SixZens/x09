@@ -19,4 +19,4 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 [*] UI Price 500 + THB
 [*] UI Open Source 500
 ```
-- [ ] \(Optional) Open a followup issue
+- [ ] Add delight to the experience when all tasks are complete :tada:
