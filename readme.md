@@ -17,5 +17,5 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 # Function UI Library
 
 ```Lua
-_G.
+_S.
 ```
