@@ -16,7 +16,5 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 ```Lua
 [Information]
-```ini
 [*]
-```
 ```
