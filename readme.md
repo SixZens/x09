@@ -16,5 +16,6 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 ```Lua
 [Information]
-[*]
+[*] UI Price 500 + THB
+[*] UI Open Source 500
 ```
