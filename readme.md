@@ -14,22 +14,17 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 
 This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
+<details><summary>Information</summary>
+<p>
+
 ```Lua
 [Information]
 [*] UI Price 500 + THB
 [*] UI Open Source 500
 ```
-**New Function**
-- [x] Add Blank Function (Settings Padding Between UI) :tada:
-
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
-
-    ```ruby
-      puts "Hello World"
-    ```
 
 </p>
 </details>
+
+**New Function**
+- [x] Add Blank Function (Settings Padding Between UI) :tada:
