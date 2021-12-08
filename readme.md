@@ -19,5 +19,5 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 [*] UI Price 500 + THB
 [*] UI Open Source 500
 ```
-# New Function
+**New Function**
 - [x] Add Blank Function (Settings Padding Between UI) :tada:
