@@ -15,15 +15,3 @@ I do Ui-Library in Roblox , such as Hub development (front-end), and Script deve
 This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 # Function UI Library
-
-1. Toggle
-     - Can Be Set Config (true,false)
-     - Can Be Lock (LockFunction)
-2. Button
-     - Can Be Click
-3. Slider
-     - Can Be Set Minvalue , Maxvalue , defaultvalue
-     - Have TextBox Can Settings
-4. Slider
-     - Can Be Set Minvalue , Maxvalue , defaultvalue
-     - Have TextBox Can Settings
