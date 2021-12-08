@@ -1,4 +1,4 @@
-<img align='left' src='https://cdn.discordapp.com/attachments/876841802324402186/886360386947923978/JoMJKAG8.png' width='20%'>
+<img align='left' src='https://www.google.com/url?sa=i&url=https%3A%2F%2Far.pinterest.com%2Fpin%2F437341813795299683%2F%3Famp_client_id%3DCLIENT_ID(_)%26mweb_unauth_id%3D%7B%7Bdefault.session%7D%7D%26simplified%3Dtrue&psig=AOvVaw1UYBcnXoqpr9T7yjW-Kw42&ust=1639072098046000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODEwMfh1PQCFQAAAAAdAAAAABAR' width='20%'>
 
 # SixZens
 
