@@ -1,3 +1,14 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+
 <img src="img_avatar.png" alt="Avatar" style="width:200px">
 
 </body>
