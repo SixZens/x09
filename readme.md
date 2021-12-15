@@ -1,18 +1,3 @@
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<style>
-img {
-  border-radius: 50%;
-}
-</style>
-</head>
-<body>
-
-<img src="img_avatar.png" alt="Avatar" style="width:200px">
-
-</body>
-</html> 
 <img align='left' src='https://i.pinimg.com/originals/2d/6f/83/2d6f83afe677bd30fc3e80cecfe1133f.jpg' width='20%'>
 
 # SixZens
