@@ -20,7 +20,7 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 ```Lua
 [Information]
 [*] UI Price 500 + THB
-[*] UI Open Source 500
+[*] UI Open Source 2500
 ```
 
 </p>
