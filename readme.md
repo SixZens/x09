@@ -1,7 +1,8 @@
+<img src="img_avatar.png" alt="Avatar" style="width:200px">
+
+</body>
+</html> 
 <img align='left' src='https://i.pinimg.com/originals/2d/6f/83/2d6f83afe677bd30fc3e80cecfe1133f.jpg' width='20%'>
-img {
-  border-radius: 50%;
-}
 
 # SixZens
 
