@@ -28,4 +28,6 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 **New Function**
 - [x] Add Blank Function (Settings Padding Between UI) :tada:
-- [x] Add Toggle Desc Function ( Can Put Desc In a Toggle) 🎆
+- [x] Add Toggle Desc Function (Can Put Desc In a Toggle) 🎆
+- [x] Add Join Discord Function (Can Join Discord Server)
+- [x] Add Folder Function (Can Create a Folder Function put Parameter)
