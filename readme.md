@@ -6,6 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=SixZens&color=de0021)
 ![](https://img.shields.io/badge/Discord-SixZens%234978-red)
+![](https://img.shields.io/github/languages/top/SixZens/x09_log)
 ![](https://img.shields.io/github/followers/SixZens?style=social)
 
 
