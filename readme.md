@@ -30,3 +30,4 @@ This is [**UI Service**](https://discord.gg/VhtxpdnmeF)
 
 **New Function**
 - [x] Add Search Bar :tada:
+- [x] Add Whitelist For UI 
